@@ -1,12 +1,3 @@
-<div>
-  <!--Header-->
-</div>
-<div>
-  <!--Body>
-
-## Skills
-### Backend
-
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=soft&color=0:fda5d0,100:f5c2ea&height=120&text=Hello%20iamHayoung!&animation=&fontColor=524747&fontSize=60" />
     </div>
@@ -41,5 +32,3 @@
     </div>
     
     </div>
-    
-</div>
