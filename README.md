@@ -13,7 +13,7 @@
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
         <p>Spring Framework</p>
         <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white">
-        <p>MyBatis,JPA,REST API,MyBatis,JPA,REST API</p><br>
+        <p>MyBatis,JPA,REST API,MyBatis,JPA,REST API</p>
 
         <h3>Frontend</h3>
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white">
