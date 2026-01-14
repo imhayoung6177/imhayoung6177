@@ -8,12 +8,12 @@
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: ; text-align: left;" "text-align: left;">
-        <h3>Backend</h2>
+        <h3>Backend</h3>
         <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
         <p>Spring Framework</p>
         <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white">
-        
+        <p>MyBatis,JPA,REST API,MyBatis,JPA,REST API</p><br/>
 
         <h3>Frontend</h3>
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white">
@@ -30,12 +30,11 @@
         <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white">
         <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white">
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white">
-        <p>Docker Compose</p>
-        <p>GitHub Actions, Jenkins</p>
+        <p>Docker Compose, GitHub Actions, Jenkins</p>
         <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white"><br/>
 
         <h3>Design</h3>
-        <p>zbrush, 3ds max, substance painter, photoshop, illustrator></p><br/>
+        <p>zbrush, 3ds max, substance painter, photoshop, illustrator</p><br/>
 
         <h3>Engines</h3>
         <p>Unity3d</p>
